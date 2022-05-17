@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yaki Kimhi</h1>
-<h3 align="center">A passionate Architecture product manager from Israel</h3>
+<h3 align="center">A passionate architecture product manager from Israel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yakikim&label=Profile%20views&color=0e75b6&style=flat" alt="yakikim" /> </p>
 
