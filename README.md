@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yakikim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yakikim" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yakikim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yakikim" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yaki-kimhi-978ba244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaki-kimhi-978ba244" height="30" width="40" /></a>
 <a href="https://fb.com/yakikim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yakikim" height="30" width="40" /></a>
 <a href="https://instagram.com/yakikim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yakikim" height="30" width="40" /></a>
 <a href="/https://yakis.netlify.app/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://yakis.netlify.app/feed/" height="30" width="40" /></a>
