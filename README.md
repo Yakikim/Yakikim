@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/yakikim" target="blank"><img src="https://img.shields.io/twitter/follow/yakikim?logo=twitter&style=for-the-badge" alt="yakikim" /></a> </p>
 
-- 📝 I regularly write articles on [https://yakis.netlify.app/](https://yakis.netlify.app/)
+- 📝 I regularly write articles on [https://yaki.dev](https://yaki.dev)
 
 - 💬 Ask me about **Obsidian, DevOps, Oracle ERP, Oracle Apex, Oracle Architecture**
 
 - 📫 How to reach me **yakikim@gmail.com**
 
-- 📄 Know about my experiences [https://yakis.netlify.app/cv](https://yakis.netlify.app/cv)
+- 📄 Know about my experiences [https://yaki.dev/cv](https://yaki.dev/cv)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
